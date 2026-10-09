@@ -1,6 +1,0 @@
-{
-  "name": "Vishwakarma Interiors – Quotation & Invoice Management System",
-  "description": "Professional Quotation, Invoice, and Payment Management System for Vishwakarma Interiors Home Interior, Wooden Furniture, and Carpentry business.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
